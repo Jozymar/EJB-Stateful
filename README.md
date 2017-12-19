@@ -1,1 +1,1 @@
-# EJB-Stateful
+# Bean de Sessão Stateful
